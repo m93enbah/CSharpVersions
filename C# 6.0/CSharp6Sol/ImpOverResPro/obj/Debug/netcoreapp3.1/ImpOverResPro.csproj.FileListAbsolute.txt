@@ -1,0 +1,12 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\bin\Debug\netcoreapp3.1\ImpOverResPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\bin\Debug\netcoreapp3.1\ImpOverResPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\bin\Debug\netcoreapp3.1\ImpOverResPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\bin\Debug\netcoreapp3.1\ImpOverResPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\bin\Debug\netcoreapp3.1\ImpOverResPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\bin\Debug\netcoreapp3.1\ImpOverResPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\obj\Debug\netcoreapp3.1\ImpOverResPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\obj\Debug\netcoreapp3.1\ImpOverResPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\obj\Debug\netcoreapp3.1\ImpOverResPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\obj\Debug\netcoreapp3.1\ImpOverResPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\obj\Debug\netcoreapp3.1\ImpOverResPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\ImpOverResPro\obj\Debug\netcoreapp3.1\ImpOverResPro.genruntimeconfig.cache

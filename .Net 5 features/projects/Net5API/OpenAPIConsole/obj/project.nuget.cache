@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMtIxxn2L8JKYQl6yw+R41NptM62bpXFRqnK5m/Yn8POeNc9LbzweZ/Tdyru5UPrY9upCa4Hl8gECfR8aN44Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.enbeh\\Desktop\\Net5API\\OpenAPIConsole\\OpenAPIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

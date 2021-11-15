@@ -1,0 +1,12 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\bin\Debug\netcoreapp3.1\OutVarPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\bin\Debug\netcoreapp3.1\OutVarPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\bin\Debug\netcoreapp3.1\OutVarPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\bin\Debug\netcoreapp3.1\OutVarPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\bin\Debug\netcoreapp3.1\OutVarPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\bin\Debug\netcoreapp3.1\OutVarPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\obj\Debug\netcoreapp3.1\OutVarPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\obj\Debug\netcoreapp3.1\OutVarPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\obj\Debug\netcoreapp3.1\OutVarPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\obj\Debug\netcoreapp3.1\OutVarPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\obj\Debug\netcoreapp3.1\OutVarPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\OutVarPro\obj\Debug\netcoreapp3.1\OutVarPro.genruntimeconfig.cache

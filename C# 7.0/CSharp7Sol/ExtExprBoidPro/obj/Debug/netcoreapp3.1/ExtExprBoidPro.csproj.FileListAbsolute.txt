@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\bin\Debug\netcoreapp3.1\ExtExprBoidPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\bin\Debug\netcoreapp3.1\ExtExprBoidPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\bin\Debug\netcoreapp3.1\ExtExprBoidPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\bin\Debug\netcoreapp3.1\ExtExprBoidPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\bin\Debug\netcoreapp3.1\ExtExprBoidPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\bin\Debug\netcoreapp3.1\ExtExprBoidPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ExtExprBoidPro\obj\Debug\netcoreapp3.1\ExtExprBoidPro.genruntimeconfig.cache

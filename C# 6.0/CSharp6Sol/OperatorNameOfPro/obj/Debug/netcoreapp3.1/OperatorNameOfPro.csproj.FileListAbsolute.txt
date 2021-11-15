@@ -1,0 +1,12 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\bin\Debug\netcoreapp3.1\OperatorNameOfPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\bin\Debug\netcoreapp3.1\OperatorNameOfPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\bin\Debug\netcoreapp3.1\OperatorNameOfPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\bin\Debug\netcoreapp3.1\OperatorNameOfPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\bin\Debug\netcoreapp3.1\OperatorNameOfPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\bin\Debug\netcoreapp3.1\OperatorNameOfPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\obj\Debug\netcoreapp3.1\OperatorNameOfPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\obj\Debug\netcoreapp3.1\OperatorNameOfPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\obj\Debug\netcoreapp3.1\OperatorNameOfPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\obj\Debug\netcoreapp3.1\OperatorNameOfPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\obj\Debug\netcoreapp3.1\OperatorNameOfPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\OperatorNameOfPro\obj\Debug\netcoreapp3.1\OperatorNameOfPro.genruntimeconfig.cache

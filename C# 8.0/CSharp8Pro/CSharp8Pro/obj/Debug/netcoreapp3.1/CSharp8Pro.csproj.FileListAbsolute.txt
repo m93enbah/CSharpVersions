@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\bin\Debug\netcoreapp3.1\CSharp8Pro.exe
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\bin\Debug\netcoreapp3.1\CSharp8Pro.deps.json
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\bin\Debug\netcoreapp3.1\CSharp8Pro.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\bin\Debug\netcoreapp3.1\CSharp8Pro.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\bin\Debug\netcoreapp3.1\CSharp8Pro.dll
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\bin\Debug\netcoreapp3.1\CSharp8Pro.pdb
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.dll
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.pdb
+C:\Users\m.enbeh\Desktop\C# Versions\C# 8.0\CSharp8Pro\CSharp8Pro\obj\Debug\netcoreapp3.1\CSharp8Pro.genruntimeconfig.cache

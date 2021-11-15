@@ -1,0 +1,6 @@
+C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.GlobalUsings.g.cs
+C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.csproj.AssemblyReference.cache
+C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.AssemblyInfoInputs.cache
+C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.AssemblyInfo.cs
+C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.csproj.CoreCompileInputs.cache

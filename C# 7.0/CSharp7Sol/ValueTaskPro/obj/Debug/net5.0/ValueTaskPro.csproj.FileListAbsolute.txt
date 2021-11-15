@@ -1,0 +1,15 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ValueTaskPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ValueTaskPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ValueTaskPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ValueTaskPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ValueTaskPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ref\ValueTaskPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\bin\Debug\net5.0\ValueTaskPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ref\ValueTaskPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\ValueTaskPro\obj\Debug\net5.0\ValueTaskPro.genruntimeconfig.cache

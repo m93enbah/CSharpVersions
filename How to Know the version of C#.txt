@@ -1,0 +1,8 @@
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version
+
+
+To know the version of C# installed 
+
+1-on VS 2019 command prompt run the following command which show the C# language versions 
+
+csc -langversion:?

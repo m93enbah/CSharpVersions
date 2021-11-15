@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1fsL2BAL51ptH4spwrGOA9nTS64xalLOAoeAFqTIWJwNQZOeRxifj2IZU8pxO4/LFe/SkvEqwVM6aJbP2h27Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.enbeh\\Desktop\\C# Versions\\.Net 5 features\\projects\\Net5Features\\RecordTypePro\\RecordTypePro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

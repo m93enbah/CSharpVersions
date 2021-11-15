@@ -1,0 +1,4 @@
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\netcoreapp3.1\RecordTypePro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\netcoreapp3.1\RecordTypePro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\netcoreapp3.1\RecordTypePro.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\netcoreapp3.1\RecordTypePro.csproj.CoreCompileInputs.cache

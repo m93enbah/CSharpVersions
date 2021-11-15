@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\bin\Debug\netcoreapp3.1\CSharp9Pro.exe
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\bin\Debug\netcoreapp3.1\CSharp9Pro.deps.json
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\bin\Debug\netcoreapp3.1\CSharp9Pro.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\bin\Debug\netcoreapp3.1\CSharp9Pro.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\bin\Debug\netcoreapp3.1\CSharp9Pro.dll
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\bin\Debug\netcoreapp3.1\CSharp9Pro.pdb
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.dll
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.pdb
+C:\Users\m.enbeh\Desktop\C# 9.0\projects\CSharp9Pro\CSharp9Pro\obj\Debug\netcoreapp3.1\CSharp9Pro.genruntimeconfig.cache

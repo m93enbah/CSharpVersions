@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\bin\Debug\netcoreapp3.1\IndexInitPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\bin\Debug\netcoreapp3.1\IndexInitPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\bin\Debug\netcoreapp3.1\IndexInitPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\bin\Debug\netcoreapp3.1\IndexInitPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\bin\Debug\netcoreapp3.1\IndexInitPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\bin\Debug\netcoreapp3.1\IndexInitPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\IndexInitPro\obj\Debug\netcoreapp3.1\IndexInitPro.genruntimeconfig.cache

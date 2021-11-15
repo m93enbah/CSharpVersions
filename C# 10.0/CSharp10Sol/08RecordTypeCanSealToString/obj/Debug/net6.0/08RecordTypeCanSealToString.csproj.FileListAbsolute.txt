@@ -1,0 +1,6 @@
+C:\Study\CSharp10\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToString.GlobalUsings.g.cs
+C:\Study\CSharp10\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToString.csproj.AssemblyReference.cache
+C:\Study\CSharp10\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharp10\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToString.AssemblyInfoInputs.cache
+C:\Study\CSharp10\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToString.AssemblyInfo.cs
+C:\Study\CSharp10\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToString.csproj.CoreCompileInputs.cache

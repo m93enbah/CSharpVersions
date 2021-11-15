@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57514840-edb0-46a8-a22e-5b15ad84e0cc": {
+      "ProjectGuid": "57514840-edb0-46a8-a22e-5b15ad84e0cc",
+      "DisplayName": "01GlobalUsingStatementPro",
+      "ColorIndex": 0
+    },
+    "eaf12ada-00bc-4e2f-bf6f-fc2cf2342b76": {
+      "ProjectGuid": "eaf12ada-00bc-4e2f-bf6f-fc2cf2342b76",
+      "DisplayName": "03FileScopedNamespacePro",
+      "ColorIndex": 1
+    },
+    "9b6a0a6a-b93d-4259-b168-07cdc7fba10b": {
+      "ProjectGuid": "9b6a0a6a-b93d-4259-b168-07cdc7fba10b",
+      "DisplayName": "02ConstantInterpolatedStringPro",
+      "ColorIndex": 2
+    },
+    "6583539e-9554-4dc3-b2e6-4409c9b3dc17": {
+      "ProjectGuid": "6583539e-9554-4dc3-b2e6-4409c9b3dc17",
+      "DisplayName": "04AttributeSupportGenericPro",
+      "ColorIndex": 3
+    },
+    "041a67a8-1645-424f-be06-708e8dfbcfa4": {
+      "ProjectGuid": "041a67a8-1645-424f-be06-708e8dfbcfa4",
+      "DisplayName": "05LamdaExprPro",
+      "ColorIndex": 4
+    },
+    "18a69aa0-26ca-4e9c-b656-3e89f120a285": {
+      "ProjectGuid": "18a69aa0-26ca-4e9c-b656-3e89f120a285",
+      "DisplayName": "06ExtendedPropertyPatternPro",
+      "ColorIndex": 5
+    },
+    "13d18586-ce46-470b-9a24-ffe238b93f75": {
+      "ProjectGuid": "13d18586-ce46-470b-9a24-ffe238b93f75",
+      "DisplayName": "07RecordsPro",
+      "ColorIndex": 6
+    },
+    "b6d193b9-50b1-4924-91cc-39ac5d4b0d5c": {
+      "ProjectGuid": "b6d193b9-50b1-4924-91cc-39ac5d4b0d5c",
+      "DisplayName": "08RecordTypeCanSealToStringPro",
+      "ColorIndex": 7
+    },
+    "fbaceb92-6754-4b3c-8dfe-d09855fb7bd4": {
+      "ProjectGuid": "fbaceb92-6754-4b3c-8dfe-d09855fb7bd4",
+      "DisplayName": "09StructureTrypesImprovementsPro",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f2ae026a-cd5c-4465-9604-27001c394add": {
+      "ProjectGuid": "f2ae026a-cd5c-4465-9604-27001c394add",
+      "DisplayName": "10StructTypeImprovementsPro",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

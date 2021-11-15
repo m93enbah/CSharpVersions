@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\bin\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\bin\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\bin\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\bin\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\bin\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\bin\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\AwaitInCatchandFinallyPro\obj\Debug\netcoreapp3.1\AwaitInCatchandFinallyPro.genruntimeconfig.cache

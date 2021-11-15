@@ -1,0 +1,6 @@
+C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.GlobalUsings.g.cs
+C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.csproj.AssemblyReference.cache
+C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.AssemblyInfoInputs.cache
+C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.AssemblyInfo.cs
+C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.csproj.CoreCompileInputs.cache

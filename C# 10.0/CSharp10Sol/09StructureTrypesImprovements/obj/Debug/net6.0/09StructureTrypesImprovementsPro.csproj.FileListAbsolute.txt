@@ -1,0 +1,16 @@
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\bin\Debug\net6.0\09StructureTrypesImprovementsPro.exe
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\bin\Debug\net6.0\09StructureTrypesImprovementsPro.deps.json
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\bin\Debug\net6.0\09StructureTrypesImprovementsPro.runtimeconfig.json
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\bin\Debug\net6.0\09StructureTrypesImprovementsPro.dll
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\bin\Debug\net6.0\ref\09StructureTrypesImprovementsPro.dll
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\bin\Debug\net6.0\09StructureTrypesImprovementsPro.pdb
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.GlobalUsings.g.cs
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.csproj.AssemblyReference.cache
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.AssemblyInfoInputs.cache
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.AssemblyInfo.cs
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.dll
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\ref\09StructureTrypesImprovementsPro.dll
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.pdb
+C:\Study\CSharp10\CSharp10Sol\09StructureTrypesImprovements\obj\Debug\net6.0\09StructureTrypesImprovementsPro.genruntimeconfig.cache

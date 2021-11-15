@@ -1,0 +1,15 @@
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\bin\Debug\net6.0\05LamdaExprPro.exe
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\bin\Debug\net6.0\05LamdaExprPro.deps.json
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\bin\Debug\net6.0\05LamdaExprPro.runtimeconfig.json
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\bin\Debug\net6.0\05LamdaExprPro.dll
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\bin\Debug\net6.0\ref\05LamdaExprPro.dll
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\bin\Debug\net6.0\05LamdaExprPro.pdb
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.GlobalUsings.g.cs
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.AssemblyInfoInputs.cache
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.AssemblyInfo.cs
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.dll
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\ref\05LamdaExprPro.dll
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.pdb
+C:\Study\CSharp10\CSharp10Sol\05LamdaExprPro\obj\Debug\net6.0\05LamdaExprPro.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\bin\Debug\netcoreapp3.1\DigitSepPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\bin\Debug\netcoreapp3.1\DigitSepPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\bin\Debug\netcoreapp3.1\DigitSepPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\bin\Debug\netcoreapp3.1\DigitSepPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\bin\Debug\netcoreapp3.1\DigitSepPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\bin\Debug\netcoreapp3.1\DigitSepPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\DigitSepPro\obj\Debug\netcoreapp3.1\DigitSepPro.genruntimeconfig.cache

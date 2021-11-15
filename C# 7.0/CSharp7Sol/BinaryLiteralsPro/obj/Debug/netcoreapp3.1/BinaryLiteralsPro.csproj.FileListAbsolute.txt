@@ -1,0 +1,12 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\bin\Debug\netcoreapp3.1\BinaryLiteralsPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\bin\Debug\netcoreapp3.1\BinaryLiteralsPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\bin\Debug\netcoreapp3.1\BinaryLiteralsPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\bin\Debug\netcoreapp3.1\BinaryLiteralsPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\bin\Debug\netcoreapp3.1\BinaryLiteralsPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\bin\Debug\netcoreapp3.1\BinaryLiteralsPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\obj\Debug\netcoreapp3.1\BinaryLiteralsPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\obj\Debug\netcoreapp3.1\BinaryLiteralsPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\obj\Debug\netcoreapp3.1\BinaryLiteralsPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\obj\Debug\netcoreapp3.1\BinaryLiteralsPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\obj\Debug\netcoreapp3.1\BinaryLiteralsPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\BinaryLiteralsPro\obj\Debug\netcoreapp3.1\BinaryLiteralsPro.genruntimeconfig.cache

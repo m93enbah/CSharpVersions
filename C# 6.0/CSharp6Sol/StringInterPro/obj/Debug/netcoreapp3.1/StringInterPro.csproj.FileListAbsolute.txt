@@ -1,0 +1,12 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\bin\Debug\netcoreapp3.1\StringInterPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\bin\Debug\netcoreapp3.1\StringInterPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\bin\Debug\netcoreapp3.1\StringInterPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\bin\Debug\netcoreapp3.1\StringInterPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\bin\Debug\netcoreapp3.1\StringInterPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\bin\Debug\netcoreapp3.1\StringInterPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\obj\Debug\netcoreapp3.1\StringInterPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\obj\Debug\netcoreapp3.1\StringInterPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\obj\Debug\netcoreapp3.1\StringInterPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\obj\Debug\netcoreapp3.1\StringInterPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\obj\Debug\netcoreapp3.1\StringInterPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\StringInterPro\obj\Debug\netcoreapp3.1\StringInterPro.genruntimeconfig.cache

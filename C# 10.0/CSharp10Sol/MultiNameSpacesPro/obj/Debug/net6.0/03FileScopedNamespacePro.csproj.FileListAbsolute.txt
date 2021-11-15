@@ -1,0 +1,6 @@
+C:\Study\CSharp10\CSharp10Sol\MultiNameSpacesPro\obj\Debug\net6.0\03FileScopedNamespacePro.GlobalUsings.g.cs
+C:\Study\CSharp10\CSharp10Sol\MultiNameSpacesPro\obj\Debug\net6.0\03FileScopedNamespacePro.csproj.AssemblyReference.cache
+C:\Study\CSharp10\CSharp10Sol\MultiNameSpacesPro\obj\Debug\net6.0\03FileScopedNamespacePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharp10\CSharp10Sol\MultiNameSpacesPro\obj\Debug\net6.0\03FileScopedNamespacePro.AssemblyInfoInputs.cache
+C:\Study\CSharp10\CSharp10Sol\MultiNameSpacesPro\obj\Debug\net6.0\03FileScopedNamespacePro.AssemblyInfo.cs
+C:\Study\CSharp10\CSharp10Sol\MultiNameSpacesPro\obj\Debug\net6.0\03FileScopedNamespacePro.csproj.CoreCompileInputs.cache

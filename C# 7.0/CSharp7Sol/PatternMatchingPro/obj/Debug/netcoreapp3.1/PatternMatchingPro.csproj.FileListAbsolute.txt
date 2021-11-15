@@ -1,0 +1,12 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\bin\Debug\netcoreapp3.1\PatternMatchingPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\bin\Debug\netcoreapp3.1\PatternMatchingPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\bin\Debug\netcoreapp3.1\PatternMatchingPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\bin\Debug\netcoreapp3.1\PatternMatchingPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\bin\Debug\netcoreapp3.1\PatternMatchingPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\bin\Debug\netcoreapp3.1\PatternMatchingPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\obj\Debug\netcoreapp3.1\PatternMatchingPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\obj\Debug\netcoreapp3.1\PatternMatchingPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\obj\Debug\netcoreapp3.1\PatternMatchingPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\obj\Debug\netcoreapp3.1\PatternMatchingPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\obj\Debug\netcoreapp3.1\PatternMatchingPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\PatternMatchingPro\obj\Debug\netcoreapp3.1\PatternMatchingPro.genruntimeconfig.cache

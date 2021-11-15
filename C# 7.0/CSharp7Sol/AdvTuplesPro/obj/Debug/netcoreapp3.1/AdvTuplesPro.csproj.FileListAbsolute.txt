@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\bin\Debug\netcoreapp3.1\AdvTuplesPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\bin\Debug\netcoreapp3.1\AdvTuplesPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\bin\Debug\netcoreapp3.1\AdvTuplesPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\bin\Debug\netcoreapp3.1\AdvTuplesPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\bin\Debug\netcoreapp3.1\AdvTuplesPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\bin\Debug\netcoreapp3.1\AdvTuplesPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\AdvTuplesPro\obj\Debug\netcoreapp3.1\AdvTuplesPro.genruntimeconfig.cache

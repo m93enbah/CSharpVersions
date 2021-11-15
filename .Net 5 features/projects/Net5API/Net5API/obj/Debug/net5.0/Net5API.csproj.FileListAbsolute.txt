@@ -1,0 +1,74 @@
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\appsettings.json
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Net5API.exe
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Net5API.deps.json
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Net5API.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Net5API.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Net5API.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\ref\Net5API.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Net5API.pdb
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\staticwebassets\Net5API.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\staticwebassets\Net5API.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\scopedcss\bundle\Net5API.styles.css
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\ref\Net5API.dll
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.pdb
+C:\Users\m.enbeh\Desktop\C# Versions\.Net 5 features\projects\Net5API\Net5API\obj\Debug\net5.0\Net5API.genruntimeconfig.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\appsettings.json
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Net5API.exe
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Net5API.deps.json
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Net5API.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Net5API.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Net5API.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\ref\Net5API.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Net5API.pdb
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\staticwebassets\Net5API.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\staticwebassets\Net5API.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\scopedcss\bundle\Net5API.styles.css
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\ref\Net5API.dll
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.pdb
+C:\Users\m.enbeh\Desktop\Net5API\Net5API\obj\Debug\net5.0\Net5API.genruntimeconfig.cache

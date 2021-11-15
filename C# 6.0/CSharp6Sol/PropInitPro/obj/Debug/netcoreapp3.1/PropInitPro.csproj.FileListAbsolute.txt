@@ -1,0 +1,13 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\bin\Debug\netcoreapp3.1\PropInitPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\bin\Debug\netcoreapp3.1\PropInitPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\bin\Debug\netcoreapp3.1\PropInitPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\bin\Debug\netcoreapp3.1\PropInitPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\bin\Debug\netcoreapp3.1\PropInitPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\bin\Debug\netcoreapp3.1\PropInitPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp6\CSharp6Sol\PropInitPro\obj\Debug\netcoreapp3.1\PropInitPro.csprojAssemblyReference.cache

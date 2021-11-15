@@ -1,0 +1,16 @@
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\LocalFuncPro.exe
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\LocalFuncPro.deps.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\LocalFuncPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\LocalFuncPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\LocalFuncPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\LocalFuncPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.dll
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.pdb
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\obj\Debug\netcoreapp3.1\LocalFuncPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\Input1.txt
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\Input2.txt
+C:\Users\m.enbeh\source\repos\CSharpVersions\CSharp7\CSharp7Sol\LocalFuncPro\bin\Debug\netcoreapp3.1\Output.txt
