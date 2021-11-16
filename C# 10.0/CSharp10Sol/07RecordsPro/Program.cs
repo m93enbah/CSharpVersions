@@ -18,3 +18,19 @@ internal class Rectangle2
 
 //we also can declare Record with type class as reference type
 internal record class Person2(string FirstName);
+
+
+
+
+
+public class MainEntry
+{
+    public static void Main(string[] args)
+    {
+        var dto = new Person2("Ali Ahmad");
+
+        //cannot be change 
+        //dto.FirstName = "":
+        Console.ReadLine();
+    }
+}

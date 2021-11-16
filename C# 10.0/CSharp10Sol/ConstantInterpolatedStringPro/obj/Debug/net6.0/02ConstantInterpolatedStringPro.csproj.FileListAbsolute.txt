@@ -4,3 +4,19 @@ C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02C
 C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.AssemblyInfoInputs.cache
 C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.AssemblyInfo.cs
 C:\Study\CSharp10\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\bin\Debug\net6.0\02ConstantInterpolatedStringPro.exe
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\bin\Debug\net6.0\02ConstantInterpolatedStringPro.deps.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\bin\Debug\net6.0\02ConstantInterpolatedStringPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\bin\Debug\net6.0\02ConstantInterpolatedStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\bin\Debug\net6.0\ref\02ConstantInterpolatedStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\bin\Debug\net6.0\02ConstantInterpolatedStringPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\ref\02ConstantInterpolatedStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\ConstantInterpolatedStringPro\obj\Debug\net6.0\02ConstantInterpolatedStringPro.genruntimeconfig.cache

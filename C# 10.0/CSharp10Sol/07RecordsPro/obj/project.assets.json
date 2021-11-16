@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\CSharp10\\CSharp10Sol\\07RecordsPro\\07RecordsPro.csproj",
+      "projectUniqueName": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\07RecordsPro\\07RecordsPro.csproj",
       "projectName": "07RecordsPro",
-      "projectPath": "C:\\Study\\CSharp10\\CSharp10Sol\\07RecordsPro\\07RecordsPro.csproj",
+      "projectPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\07RecordsPro\\07RecordsPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\CSharp10\\CSharp10Sol\\07RecordsPro\\obj\\",
+      "outputPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\07RecordsPro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

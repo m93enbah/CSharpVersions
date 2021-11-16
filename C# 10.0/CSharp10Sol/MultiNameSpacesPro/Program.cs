@@ -1,4 +1,4 @@
-﻿//with file scoped namespace no namespaces allowed on the same file
+﻿//with file scoped namespace no namespaces allowed on the same file and you can make ; instead of {}
 namespace MultiNameSpacesPro.FileScopedNameSpaces;
 internal class Person 
 {

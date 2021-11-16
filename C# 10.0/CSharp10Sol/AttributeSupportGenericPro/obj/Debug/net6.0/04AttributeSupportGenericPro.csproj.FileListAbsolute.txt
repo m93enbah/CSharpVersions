@@ -4,3 +4,9 @@ C:\Study\CSharp10\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04Attr
 C:\Study\CSharp10\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.AssemblyInfoInputs.cache
 C:\Study\CSharp10\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.AssemblyInfo.cs
 C:\Study\CSharp10\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\AttributeSupportGenericPro\obj\Debug\net6.0\04AttributeSupportGenericPro.csproj.CoreCompileInputs.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\CSharp10\\CSharp10Sol\\CSharp10Sol\\01GlobalUsingStatementPro.csproj",
+      "projectUniqueName": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\CSharp10Sol\\01GlobalUsingStatementPro.csproj",
       "projectName": "01GlobalUsingStatementPro",
-      "projectPath": "C:\\Study\\CSharp10\\CSharp10Sol\\CSharp10Sol\\01GlobalUsingStatementPro.csproj",
+      "projectPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\CSharp10Sol\\01GlobalUsingStatementPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\CSharp10\\CSharp10Sol\\CSharp10Sol\\obj\\",
+      "outputPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\CSharp10Sol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

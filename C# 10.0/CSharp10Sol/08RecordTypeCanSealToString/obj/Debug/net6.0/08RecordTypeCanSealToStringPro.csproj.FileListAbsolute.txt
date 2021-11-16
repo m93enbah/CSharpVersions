@@ -1,0 +1,16 @@
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\bin\Debug\net6.0\08RecordTypeCanSealToStringPro.exe
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\bin\Debug\net6.0\08RecordTypeCanSealToStringPro.deps.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\bin\Debug\net6.0\08RecordTypeCanSealToStringPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\bin\Debug\net6.0\08RecordTypeCanSealToStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\bin\Debug\net6.0\ref\08RecordTypeCanSealToStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\bin\Debug\net6.0\08RecordTypeCanSealToStringPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\ref\08RecordTypeCanSealToStringPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\08RecordTypeCanSealToString\obj\Debug\net6.0\08RecordTypeCanSealToStringPro.genruntimeconfig.cache

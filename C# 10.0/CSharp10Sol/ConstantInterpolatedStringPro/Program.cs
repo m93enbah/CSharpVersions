@@ -13,4 +13,10 @@ public static class ApiRoutes
 
         public const string Add = $"Base {{id:guid}}";
     }
+
+    public static void Main(string[] args)
+    {
+        Console.WriteLine(Library.GetById);
+       
+    }
 }

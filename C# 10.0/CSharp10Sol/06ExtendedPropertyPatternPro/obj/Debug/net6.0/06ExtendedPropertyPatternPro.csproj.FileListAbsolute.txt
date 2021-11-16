@@ -14,3 +14,19 @@ C:\Study\CSharp10\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06Ex
 C:\Study\CSharp10\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\ref\06ExtendedPropertyPatternPro.dll
 C:\Study\CSharp10\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.pdb
 C:\Study\CSharp10\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.genruntimeconfig.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\bin\Debug\net6.0\06ExtendedPropertyPatternPro.exe
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\bin\Debug\net6.0\06ExtendedPropertyPatternPro.deps.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\bin\Debug\net6.0\06ExtendedPropertyPatternPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\bin\Debug\net6.0\06ExtendedPropertyPatternPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\bin\Debug\net6.0\ref\06ExtendedPropertyPatternPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\bin\Debug\net6.0\06ExtendedPropertyPatternPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\ref\06ExtendedPropertyPatternPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\06ExtendedPropertyPatternPro\obj\Debug\net6.0\06ExtendedPropertyPatternPro.genruntimeconfig.cache

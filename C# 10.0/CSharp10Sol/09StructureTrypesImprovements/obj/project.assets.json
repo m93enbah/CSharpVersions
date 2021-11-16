@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\CSharp10\\CSharp10Sol\\09StructureTrypesImprovements\\09StructureTrypesImprovementsPro.csproj",
+      "projectUniqueName": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\09StructureTrypesImprovements\\09StructureTrypesImprovementsPro.csproj",
       "projectName": "09StructureTrypesImprovementsPro",
-      "projectPath": "C:\\Study\\CSharp10\\CSharp10Sol\\09StructureTrypesImprovements\\09StructureTrypesImprovementsPro.csproj",
+      "projectPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\09StructureTrypesImprovements\\09StructureTrypesImprovementsPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\CSharp10\\CSharp10Sol\\09StructureTrypesImprovements\\obj\\",
+      "outputPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\09StructureTrypesImprovements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

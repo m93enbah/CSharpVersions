@@ -13,3 +13,19 @@ C:\Study\CSharp10\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10Str
 C:\Study\CSharp10\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\ref\10StructTypeImprovementsPro.dll
 C:\Study\CSharp10\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.pdb
 C:\Study\CSharp10\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.genruntimeconfig.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\bin\Debug\net6.0\10StructTypeImprovementsPro.exe
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\bin\Debug\net6.0\10StructTypeImprovementsPro.deps.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\bin\Debug\net6.0\10StructTypeImprovementsPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\bin\Debug\net6.0\10StructTypeImprovementsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\bin\Debug\net6.0\ref\10StructTypeImprovementsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\bin\Debug\net6.0\10StructTypeImprovementsPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\ref\10StructTypeImprovementsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\10StructTypeImprovementsPro\obj\Debug\net6.0\10StructTypeImprovementsPro.genruntimeconfig.cache

@@ -14,3 +14,19 @@ C:\Study\CSharp10\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatemen
 C:\Study\CSharp10\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\ref\01GlobalUsingStatementPro.dll
 C:\Study\CSharp10\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.pdb
 C:\Study\CSharp10\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.genruntimeconfig.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\bin\Debug\net6.0\01GlobalUsingStatementPro.exe
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\bin\Debug\net6.0\01GlobalUsingStatementPro.deps.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\bin\Debug\net6.0\01GlobalUsingStatementPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\bin\Debug\net6.0\01GlobalUsingStatementPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\bin\Debug\net6.0\ref\01GlobalUsingStatementPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\bin\Debug\net6.0\01GlobalUsingStatementPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\ref\01GlobalUsingStatementPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\CSharp10Sol\obj\Debug\net6.0\01GlobalUsingStatementPro.genruntimeconfig.cache

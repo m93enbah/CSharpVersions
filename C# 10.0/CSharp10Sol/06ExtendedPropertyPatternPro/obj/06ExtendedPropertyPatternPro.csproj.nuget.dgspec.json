@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Study\\CSharp10\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj": {}
+    "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj": {}
   },
   "projects": {
-    "C:\\Study\\CSharp10\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj": {
+    "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Study\\CSharp10\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj",
+        "projectUniqueName": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj",
         "projectName": "06ExtendedPropertyPatternPro",
-        "projectPath": "C:\\Study\\CSharp10\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj",
+        "projectPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\06ExtendedPropertyPatternPro\\06ExtendedPropertyPatternPro.csproj",
         "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Study\\CSharp10\\CSharp10Sol\\06ExtendedPropertyPatternPro\\obj\\",
+        "outputPath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\06ExtendedPropertyPatternPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

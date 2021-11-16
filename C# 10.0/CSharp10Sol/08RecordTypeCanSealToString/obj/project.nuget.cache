@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kK73eGSX7GRyjsRvJr52Vkcv9+IGNjMckUXz1IWL0bqQYoxWO8OMTFyoZn607PZj3av+k7+xC4KGMUaKZRIxpg==",
+  "dgSpecHash": "Roe/M1VK1f+fG+Mxr88JiGexOT6vDLLMshCiiQZ2aoBUjBoC7W/ljafMSTepPwm2EWxhGXw9KMo/Eri3cx5kSA==",
   "success": true,
-  "projectFilePath": "C:\\Study\\CSharp10\\CSharp10Sol\\08RecordTypeCanSealToString\\08RecordTypeCanSealToStringPro.csproj",
+  "projectFilePath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\08RecordTypeCanSealToString\\08RecordTypeCanSealToStringPro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

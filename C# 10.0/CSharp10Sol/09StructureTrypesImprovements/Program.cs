@@ -9,10 +9,12 @@
 
             //in C# 10 you can create new instance with change prop in shorter way (Shallow Copy)
             var m2 = m1 with { Width = 30 };
+
+            var m3 = m1 with { };
             Console.WriteLine(m2);
         }
     }
-
+    //struct or class its the same way
     public struct Rectangle
     {
         public Rectangle(int height, int width)

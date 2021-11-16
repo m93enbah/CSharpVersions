@@ -4,3 +4,19 @@ C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.Generat
 C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.AssemblyInfoInputs.cache
 C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.AssemblyInfo.cs
 C:\Study\CSharp10\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\bin\Debug\net6.0\07RecordsPro.exe
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\bin\Debug\net6.0\07RecordsPro.deps.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\bin\Debug\net6.0\07RecordsPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\bin\Debug\net6.0\07RecordsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\bin\Debug\net6.0\ref\07RecordsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\bin\Debug\net6.0\07RecordsPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\ref\07RecordsPro.dll
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.pdb
+C:\Study\CSharpVersions\C# 10.0\CSharp10Sol\07RecordsPro\obj\Debug\net6.0\07RecordsPro.genruntimeconfig.cache

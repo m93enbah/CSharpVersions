@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28ptDlJgTsaT8l8ZeJ8/A4k33+gnDZa7ODqunjSwT0h/jULwKElevVLS9F73EdaahjNU2O+hnu+guO3bTIac/g==",
+  "dgSpecHash": "vvBxMFkEuiAsIeY7JWgqUIsI7Ng4XFuE6oTLCUJa3ycWMbC1eHYycSEoMqNe2XFcSUu5gcCKMozrd7X2pYeTww==",
   "success": true,
-  "projectFilePath": "C:\\Study\\CSharp10\\CSharp10Sol\\MultiNameSpacesPro\\03FileScopedNamespacePro.csproj",
+  "projectFilePath": "C:\\Study\\CSharpVersions\\C# 10.0\\CSharp10Sol\\MultiNameSpacesPro\\03FileScopedNamespacePro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

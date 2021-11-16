@@ -1,8 +1,7 @@
 ﻿//in C# 10 if you want to prevent override method from access from child class / record 
 //we can use sealed override as below 
-
 //you see that you cannot inherit from parent becouse its sealed override method
-internal record Rectangle(int height, int width)
+public record Rectangle(int height, int width)
 {
     public sealed override string ToString()
     {
@@ -10,9 +9,9 @@ internal record Rectangle(int height, int width)
     }
 }
 
-internal record Square : Rectangle
+public record Square : Rectangle
 {
-    protected Square(int sideLenght) : base(sideLenght, sideLenght) { }
+    public Square(int sideLenght) : base(sideLenght, sideLenght) { }
 
     //public override string ToString()
     //{
@@ -20,10 +19,8 @@ internal record Square : Rectangle
     //}
 }
 //=========================================//
-
-
 //you see that you cannot inherit from parent becouse its sealed override method
-internal class Rectangle1
+public class Rectangle1
 {
     public Rectangle1(int height, int width) 
     {
@@ -40,9 +37,9 @@ internal class Rectangle1
     }
 }
 
-internal class Square1 : Rectangle1
+public class Square1 : Rectangle1
 {
-    protected Square1(int sideLenght) : base(sideLenght, sideLenght) { }
+    public Square1(int sideLenght) : base(sideLenght, sideLenght) { }
 
     //public override string ToString()
     //{
@@ -50,11 +47,11 @@ internal class Square1 : Rectangle1
     //}
 }
 
-public class Main
+public class MainEntry1
 {
-    public static void main(string[] args)
+    public static void Main(string[] args)
     {
-      
-
+        var sqr = new Square(100);
+        sqr.ToString();
     }
 }
