@@ -1,0 +1,124 @@
+C# 6.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================================
+C# 7.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================================
+C# 8.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================================
+C# 9.0 Needed Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================================
+C# 10.0 Needed Points
+
+1-File Scoped Namespace 
+//(by using ; instead of using {} as below)
+namespace CSharp10Features.ConstantInterpolatedString;
+
+2-constant interpolated string    
+//by using const on the const properties as below 
+public static class Library {private const string Base = ApiBase + "/library";}
+
+3-lamda expression function 
+//by using the same format on the typescript / javascript as below 
+var fun01 = string () => "Hello World";
+var fun02 = string (string fname,string lname) => $"{fname} {lname}"
+
+
+4-using record with specify is it struct , class type 
+internal record struct Person(string FirstName);
+internal struct Rectangle { 
+    public int Height { get; init; }
+    public int Width { get; init; }
+}
+
+internal record class Person2(string FirstName);
+internal class Rectangle2
+{
+    public int Height { get; init; }
+    public int Width { get; init; }
+}
+
+5-apply shallow copy on class / struct types
+var m1 = new Rectangle(10, 20);
+//in C# 10 you can create new instance with change prop in shorter way (Shallow Copy)
+var m2 = m1 with { Width = 30 };
+==============================================================================================
