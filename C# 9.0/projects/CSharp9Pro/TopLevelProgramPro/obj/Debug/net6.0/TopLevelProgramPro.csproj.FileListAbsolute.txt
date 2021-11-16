@@ -1,0 +1,15 @@
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\bin\Debug\net6.0\TopLevelProgramPro.exe
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\bin\Debug\net6.0\TopLevelProgramPro.deps.json
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\bin\Debug\net6.0\TopLevelProgramPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\bin\Debug\net6.0\TopLevelProgramPro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\bin\Debug\net6.0\ref\TopLevelProgramPro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\bin\Debug\net6.0\TopLevelProgramPro.pdb
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.GlobalUsings.g.cs
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\ref\TopLevelProgramPro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.pdb
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\TopLevelProgramPro\obj\Debug\net6.0\TopLevelProgramPro.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\bin\Debug\net6.0\InitorRecordTypePro.exe
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\bin\Debug\net6.0\InitorRecordTypePro.deps.json
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\bin\Debug\net6.0\InitorRecordTypePro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\bin\Debug\net6.0\InitorRecordTypePro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\bin\Debug\net6.0\ref\InitorRecordTypePro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\bin\Debug\net6.0\InitorRecordTypePro.pdb
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\ref\InitorRecordTypePro.dll
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.pdb
+C:\Study\CSharpVersions\C# 9.0\projects\CSharp9Pro\RecordTypePro\obj\Debug\net6.0\InitorRecordTypePro.genruntimeconfig.cache
