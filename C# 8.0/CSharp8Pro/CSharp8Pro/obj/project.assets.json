@@ -9,22 +9,23 @@
   },
   "packageFolders": {
     "C:\\Users\\m.enbeh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\Desktop\\C# Versions\\C# 8.0\\CSharp8Pro\\CSharp8Pro\\CSharp8Pro.csproj",
+      "projectUniqueName": "C:\\Study\\CSharpVersions\\C# 8.0\\CSharp8Pro\\CSharp8Pro\\CSharp8Pro.csproj",
       "projectName": "CSharp8Pro",
-      "projectPath": "C:\\Users\\m.enbeh\\Desktop\\C# Versions\\C# 8.0\\CSharp8Pro\\CSharp8Pro\\CSharp8Pro.csproj",
+      "projectPath": "C:\\Study\\CSharpVersions\\C# 8.0\\CSharp8Pro\\CSharp8Pro\\CSharp8Pro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.enbeh\\Desktop\\C# Versions\\C# 8.0\\CSharp8Pro\\CSharp8Pro\\obj\\",
+      "outputPath": "C:\\Study\\CSharpVersions\\C# 8.0\\CSharp8Pro\\CSharp8Pro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\m.enbeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,9 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\inetpub\\wwwroot\\MyWorkAngular\\AngApprovalNotification\\Packages\\enbeh-shared-setup-domain-package\\1.0.0": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

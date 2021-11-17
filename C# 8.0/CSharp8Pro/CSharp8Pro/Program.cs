@@ -6,8 +6,6 @@ namespace CSharp8Pro
     {
         static void Main(string[] args)
         {
-
-
             //var rect = new Rectangle();
             //rect.height = 50;
             //rect.length = 100;

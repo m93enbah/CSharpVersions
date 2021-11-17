@@ -1,0 +1,14 @@
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\bin\Debug\netcoreapp3.1\DefaultImplementationPro.exe
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\bin\Debug\netcoreapp3.1\DefaultImplementationPro.deps.json
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\bin\Debug\netcoreapp3.1\DefaultImplementationPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\bin\Debug\netcoreapp3.1\DefaultImplementationPro.runtimeconfig.dev.json
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\bin\Debug\netcoreapp3.1\DefaultImplementationPro.dll
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\bin\Debug\netcoreapp3.1\DefaultImplementationPro.pdb
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.dll
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.pdb
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\DefaultImplementationPro\obj\Debug\netcoreapp3.1\DefaultImplementationPro.genruntimeconfig.cache

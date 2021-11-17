@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a59f80f-18d5-46b6-b09e-15b68a8c6f22": {
+      "ProjectGuid": "3a59f80f-18d5-46b6-b09e-15b68a8c6f22",
+      "DisplayName": "TopLevelProgramPro",
+      "ColorIndex": 0
+    },
+    "f4a75de2-0457-43d9-9f85-3a4f8c1fb3aa": {
+      "ProjectGuid": "f4a75de2-0457-43d9-9f85-3a4f8c1fb3aa",
+      "DisplayName": "CSharp9API",
+      "ColorIndex": 1
+    },
+    "f17026b0-ec0d-47b3-a753-a603f14d77f7": {
+      "ProjectGuid": "f17026b0-ec0d-47b3-a753-a603f14d77f7",
+      "DisplayName": "InitorRecordTypePro",
+      "ColorIndex": 2
+    },
+    "e0d6256b-31cb-4461-a63f-cbb6df18b3f3": {
+      "ProjectGuid": "e0d6256b-31cb-4461-a63f-cbb6df18b3f3",
+      "DisplayName": "RelationalPatternMatchingPro",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,13 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Text;
 
-namespace CSharp8Pro
+namespace UsingExpressionPro
 {
-    public class UsingDecleration
+    class Program
     {
-        public static int ConvertFiles() 
+        static void Main(string[] args)
+        {
+            ConvertFiles();
+        }
+        //with using var , it will kill the instnace once you go out the method , its more simpler than old way
+        public static int ConvertFiles()
         {
             int output = 0;
             using var inputFile = new StreamReader(@"D:\InputFile.txt");
@@ -34,5 +37,6 @@ namespace CSharp8Pro
             //}
             return output;
         }
+
     }
 }

@@ -38,54 +38,95 @@ C# 7.0
 ==============================================================================================
 C# 8.0
 
+1-Default Implementation 
+//with default implementation , you can make shared method with body inside interface 
+public interface IShoppingCart{
+public string fullName { get; set; }
+private static string defaultName = "Default ";
+
+//Default implementation method static can only access from another class
+public static void setDefaultName(string name){defaultName = name;}
+
+//default impelementation method ordinal
+void CalcoulateSubTotal(){Console.WriteLine($"This is the {defaultName} Calcoulate Sub Total");}
+void CalcoulateTotal();}
 
 
+class ShoppingCart : IShoppingCart{
+public string fullName { get; set; }
+public void CalcoulateTotal(){Console.WriteLine("This is the default Calcoulate Total for Shooping Cart");}}
 
+//////Main Entry Point///////
+//you can access to the methods on the interface IShoppingCart as below   
+IShoppingCart shoopingCart2 = new ShoppingCart();           
+shoopingCart2.CalcoulateTotal();
+//its allow to access to all methods include default implementation of the interface IShoppingCart
+shoopingCart2.CalcoulateSubTotal();   
 
+2-NULL Coalasing Format 
+//with Null Coalasing it will make new action if the value is null
 
+var example = new ListDemo();
+//we have null check that we check if example is null ignore the rest 
+example?.LuckyNumbers?.Add(15);
+//we use the null colescing by check if example.LuckyNumber is null create new list<int>
+example.LuckyNumbers ??= new List<int>();
 
+3-switch statement 
+static void Main(string[] args){
+var result = DoMath(10, 20, MathType.Add);
+Console.WriteLine(result);
+Console.ReadLine();}
+  
+public static double DoMath(double x, double y, MathType mathType){       
+//Swith Expression New Format   
+var output = mathType switch{              
+MathType.Add => x + y,              
+MathType.Subtract => x - y,               
+MathType.Divide => x / y,              
+MathType.Multiply => x * y,               
+_ => throw new Exception("Bad Operation")}; 
+return output;}
 
+4-using statement
+//with using statement , you can simply using statement to be in more simple using way  (once its go out the method it will finalize)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+public static int ConvertFiles(){
+int output = 0;
+using var inputFile = new StreamReader(@"D:\InputFile.txt");
+using var outputFile = new StreamWriter(@"D:\OutputFile.txt");
+string line;
+while ((line = inputFile.ReadLine()) != null){
+outputFile.WriteLine(line);
+output += 1;}
 ==============================================================================================
 C# 9.0 Needed Points
 
+1-Init accessor 
+//with init prop you cannot change value after assign it as below
+public class PersonModel{ 
+public PersonModel(int id,string fname,string lname) {Id = id;FirstName = fname;LastName = lname;}
+public int Id { get; init; }
+public string FirstName { get; set; }
+public string LastName { get; set; }}
 
+2-Record 
+//with this you can declare class with init prop as below
+record PersonRecord(string FullName, int Age);
+//you cannot change after assign value of props
+var perRecord = new PersonRecord("Isam Ahmad", 23);
 
+3-Is Not Nll 
+//with this it will check if the object is not null as below
+if (fullName is not null) {Console.WriteLine("Hello Isam");}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+4-Logical & Relational Condition 
+//with this new features you can add compare condition like > < >= <= with logical conditions like and , or 
+rec.Summary = rec.TemperatureF switch{
+< 0 => "Well Below Freezing",
+> 10 and < 30 => "Normal",
+> 30 and < 85 => "Hot",
+_ => "Normal"};
 ==============================================================================================
 C# 10.0 Needed Points
 

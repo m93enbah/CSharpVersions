@@ -1,0 +1,14 @@
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.csproj.AssemblyReference.cache
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.AssemblyInfoInputs.cache
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.AssemblyInfo.cs
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.csproj.CoreCompileInputs.cache
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\bin\Debug\netcoreapp3.1\SwitchExpressionPro.exe
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\bin\Debug\netcoreapp3.1\SwitchExpressionPro.deps.json
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\bin\Debug\netcoreapp3.1\SwitchExpressionPro.runtimeconfig.json
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\bin\Debug\netcoreapp3.1\SwitchExpressionPro.runtimeconfig.dev.json
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\bin\Debug\netcoreapp3.1\SwitchExpressionPro.dll
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\bin\Debug\netcoreapp3.1\SwitchExpressionPro.pdb
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.dll
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.pdb
+C:\Study\CSharpVersions\C# 8.0\CSharp8Pro\SwitchStatementPro\obj\Debug\netcoreapp3.1\SwitchExpressionPro.genruntimeconfig.cache
